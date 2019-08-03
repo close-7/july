@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "v-tag":"/components/tag/index",
+    "v-btn":"/components/image-button/index",
+    "v-pre": "/components/preview/index"
+  }
+}
